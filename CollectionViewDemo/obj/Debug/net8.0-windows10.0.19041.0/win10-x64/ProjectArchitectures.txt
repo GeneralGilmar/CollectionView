@@ -1,0 +1,1 @@
+C:\Users\gilmar\Desktop\Develop\Training\Maui\CollectionViewDemo\CollectionViewDemo\CollectionViewDemo.csproj;x64
